@@ -23,13 +23,22 @@ Como objetivos secundários, temos
 
 ## Challenges
 
-- [Challenge alpha](https://github.com/cybers-athletic/challenge-alpha)
-- [Challenge bravo](https://github.com/cybers-athletic/challenge-bravo)
-- [Challenge charlie](https://github.com/cybers-athletic/challenge-charlie)
-- [Challenge delta](https://github.com/cybers-athletic/challenge-delta)
-- [Challenge echo](https://github.com/cybers-athletic/challenge-echo)
-- [Challenge foxtrot](https://github.com/cybers-athletic/challenge-foxtrot)
-- [Challenge india](https://github.com/cybers-athletic/challenge-india)
+- [Challenge Alpha](https://github.com/cybers-athletic/challenge-alpha)
+- [Challenge Bravo](https://github.com/cybers-athletic/challenge-bravo)
+- [Challenge Charlie](https://github.com/cybers-athletic/challenge-charlie)
+- [Challenge Delta](https://github.com/cybers-athletic/challenge-delta)
+- [Challenge Echo](https://github.com/cybers-athletic/challenge-echo)
+- [Challenge Foxtrot](https://github.com/cybers-athletic/challenge-foxtrot)
+- [Challenge Golf](https://github.com/cybers-athletic/challenge-golf)
+- [Challenge Hotel](https://github.com/cybers-athletic/challenge-hotel)
+- [Challenge India](https://github.com/cybers-athletic/challenge-india)
+- [Challenge Juliett](https://github.com/cybers-athletic/challenge-juliett)
+- [Challenge Kilo](https://github.com/cybers-athletic/challenge-kilo)
+- [Challenge Lima](https://github.com/cybers-athletic/challenge-lima)
+- [Challenge Mike](https://github.com/cybers-athletic/challenge-mike)
+- [Challenge November](https://github.com/cybers-athletic/challenge-november)
+- [Challenge Oscar](https://github.com/cybers-athletic/challenge-oscar)
+
 
 ## Utilidades
 
