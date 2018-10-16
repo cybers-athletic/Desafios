@@ -1,3 +1,5 @@
+# ![Desafio Sou FullStack](feynman.png)
+
 # <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Sou FullStack
 
 Instruções iniciais e desafios do grupo [Cybers Athletic](https://github.com/cybers-athletic)
@@ -21,12 +23,13 @@ Como objetivos secundários, temos
 
 ## Challenges
 
-- [Challenge alpha](challenges/alpha.md)
-- [Challenge bravo](challenges/bravo.md)
-- [Challenge charlie](challenges/charlie.md)
-- [Challenge delta](challenges/delta.md)
-- [Challenge echo](challenges/echo.md)
-- [Challenge foxtrot](challenges/foxtrot.md)
+- [Challenge alpha](https://github.com/cybers-athletic/challenge-alpha)
+- [Challenge bravo](https://github.com/cybers-athletic/challenge-bravo)
+- [Challenge charlie](https://github.com/cybers-athletic/challenge-charlie)
+- [Challenge delta](https://github.com/cybers-athletic/challenge-delta)
+- [Challenge echo](https://github.com/cybers-athletic/challenge-echo)
+- [Challenge foxtrot](https://github.com/cybers-athletic/challenge-foxtrot)
+- [Challenge india](https://github.com/cybers-athletic/challenge-india)
 
 ## Utilidades
 
