@@ -29,7 +29,7 @@ Como objetivos secundários, temos
 - [Challenge delta](https://github.com/cybers-athletic/challenge-delta)
 - [Challenge echo](https://github.com/cybers-athletic/challenge-echo)
 - [Challenge foxtrot](https://github.com/cybers-athletic/challenge-foxtrot)
-- [Challenge delta](https://github.com/cybers-athletic/challenge-india)
+- [Challenge india](https://github.com/cybers-athletic/challenge-india)
 
 ## Utilidades
 
