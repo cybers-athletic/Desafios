@@ -42,4 +42,4 @@ Como objetivos secundários, temos
 
 ## Utilidades
 
-- [Dicas para fazer um Pull Request](utils/pull-request.md)
+- [Dicas para fazer um Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
