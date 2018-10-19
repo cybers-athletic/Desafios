@@ -38,6 +38,7 @@ Como objetivos secundários, temos
 - [Challenge Mike](https://github.com/cybers-athletic/challenge-mike)
 - [Challenge November](https://github.com/cybers-athletic/challenge-november)
 - [Challenge Oscar](https://github.com/cybers-athletic/challenge-oscar)
+- [Challenge Papa](https://github.com/cybers-athletic/challenge-papa)
 
 
 ## Utilidades
